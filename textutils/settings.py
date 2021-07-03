@@ -25,7 +25,7 @@ SECRET_KEY = 'fv@g(r%($5srgyi8&$(##7ew7k2z6bp1ls#ml*#rt-vs(h4gsi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', ]
+ALLOWED_HOSTS = ['127.0.0.1', 'text-utility-tiny.herokuapp.com']
 
 
 # Application definition
